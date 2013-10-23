@@ -2,9 +2,7 @@
 Projektmedlemmar: 
 [as223jc](https://github.com/as223jc)
 
-[Exekverbar version av projektet](http://tstjostudent.github.io/Projektet)
-
-*Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
+[Exekverbar version av projektet](https://github.com/as223jc/ProjektskelettHT13/)
 
 ## Beskrivning av projektet
 Hemsida för företaget VL Flyfishing, enskilt bolag drivet av Johan Van Lis Svanberg. Johan vill ha ett ansiktslyft på sin hemsida och har bett mig hjälpa honom.
